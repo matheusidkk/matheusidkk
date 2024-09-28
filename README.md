@@ -4,7 +4,7 @@ Desenvolvedor Front-End | QA
 
 # Sobre Mim
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação, focando principalmente em HTML, CSS, JavaScript e React. Com mais de um ano e meio de experiência em estudos e desenvolvimento, já adquiri um bom conhecimento em diversas áreas do front-end.
+Sou um desenvolvedor apaixonado por tecnologia e inovação, focando principalmente em HTML, CSS, JavaScript, React e Python. Com mais de um ano e meio de experiência em estudos e desenvolvimento, já adquiri um bom conhecimento em diversas áreas do front-end.
 
 # Habilidades
 
