@@ -27,10 +27,6 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, focando principalme
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## Testes e Qualidade:
-
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-
 # Objetivos
 
 Estou sempre em busca de novas oportunidades para crescer e aprender. Além de meu foco em desenvolvimento front-end, estou interessado em trabalhar na área de QA, aplicando meus conhecimentos em Cypress para garantir a qualidade dos produtos que desenvolvo.
